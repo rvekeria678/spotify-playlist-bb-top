@@ -1,0 +1,1 @@
+BB_URL = 'https://www.billboard.com/charts/hot-100'
